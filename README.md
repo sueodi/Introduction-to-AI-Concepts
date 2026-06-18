@@ -11,8 +11,7 @@
 - [AI Ethics](#AI Ethics)
 
 ## Introduction
-This guide covers Concepts that every student should know about.
-Each section is written by a different team member.
+This guide covers Concepts 
 
 ## machine learning
  machine learning is a subset of AI
