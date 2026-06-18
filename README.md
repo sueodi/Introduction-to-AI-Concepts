@@ -5,7 +5,7 @@
 ## Table of Contents
 - [AI Concepts](#AI Concepts)
 - [(machine learning](#(machine learning)
-- [neural networks](#neural networks)
+- [NLP](#NLP)
 - [AI Ethics](#AI Ethics)
 
 ## Introduction
