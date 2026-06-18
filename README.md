@@ -15,13 +15,13 @@ This guide covers Concepts that every student should know about.
 Each section is written by a different team member.
 
 ## machine learning
-<!-- [Team Member 1 ] machine learning is a subset of AI
+ machine learning is a subset of AI
 
 ## NLP
-<!-- [Team Member 2 ] Natural Language Processing   is technology that enables machines to read,  understand, and generate human language. 
+ Natural Language Processing   is technology that enables machines to read,  understand, and generate human language. 
 
 ## AI Ethics
-<!-- [Team Member 3 ] Ethics refers to using AI resposibly and fairly that is usin AI in ways that benefit society and p
+ Ethics refers to using AI resposibly and fairly that is usin AI in ways that benefit society and p
 protecting people privacy .
 
 ## commit message
