@@ -1,8 +1,6 @@
 ## "Introduction to AI Concepts"
- These is an introduction to key Artificial Intelligence(AI)
- concepts.AI is a field of ccomputer science that builds systems
- capable of performing tasks typically requiring human intelligence.
- 
+ A collaborative guide by
+ Susan Awino
 
 ## Table of Contents
 - [AI Concepts](#AI Concepts)
@@ -11,7 +9,9 @@
 - [AI Ethics](#AI Ethics)
 
 ## Introduction
-This guide covers Concepts 
+ These is an introduction to key Artificial Intelligence(AI)
+ concepts.AI is a field of ccomputer science that builds systems
+ capable of performing tasks typically requiring human intelligence. 
 
 ## machine learning
  machine learning is a subset of AI
